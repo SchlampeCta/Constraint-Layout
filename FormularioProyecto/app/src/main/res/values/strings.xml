@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormularioProyecto</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Ciudadano</string>
+    <string name="mensasage_hint">Publicar el reporte</string>
+    <string name="send_button">Enviar</string>
+    <string name="date">Fecha</string>
+    <string name="time">Hora</string>
+</resources>
